@@ -131,7 +131,7 @@ pronouns   : He / Him
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20understands.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler)
 
 </div>
 
